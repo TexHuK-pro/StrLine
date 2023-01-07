@@ -31,6 +31,7 @@ public class Main {
             }
             finishedString.append(preparedWordForString);
         }
+        System.out.println("<---------------->");
         return finishedString.toString();
     }
 }

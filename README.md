@@ -3,3 +3,5 @@
 она работает следующим образом
 вы вводите предложение из слов, она переводит ее в будущее название метода или поля
 my first data processing method -> myFirstDataProcessingMethod
+
+https://chat.qwen.ai/s/t_509c2673-1722-4271-b865-b8a838355e66?fev=0.2.60
